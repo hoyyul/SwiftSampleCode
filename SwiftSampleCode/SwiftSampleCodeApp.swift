@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftSampleCodeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WeakSelfDemo()
         }
     }
 }
