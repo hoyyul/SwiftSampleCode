@@ -12,6 +12,7 @@
 		40586B942A31E44100A63CFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40586B932A31E44100A63CFC /* Assets.xcassets */; };
 		40586B972A31E44100A63CFC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40586B962A31E44100A63CFC /* Preview Assets.xcassets */; };
 		40586B9E2A321CC900A63CFC /* BackgroundThreadDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586B9D2A321CC900A63CFC /* BackgroundThreadDemo.swift */; };
+		40586BA02A331D1900A63CFC /* AppStorageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586B9F2A331D1900A63CFC /* AppStorageDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		40586B932A31E44100A63CFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		40586B962A31E44100A63CFC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		40586B9D2A321CC900A63CFC /* BackgroundThreadDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadDemo.swift; sourceTree = "<group>"; };
+		40586B9F2A331D1900A63CFC /* AppStorageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				40586B912A31E43F00A63CFC /* ContentView.swift */,
 				40586B932A31E44100A63CFC /* Assets.xcassets */,
 				40586B9D2A321CC900A63CFC /* BackgroundThreadDemo.swift */,
+				40586B9F2A331D1900A63CFC /* AppStorageDemo.swift */,
 				40586B952A31E44100A63CFC /* Preview Content */,
 			);
 			path = SwiftSampleCode;
@@ -142,6 +145,7 @@
 			files = (
 				40586B922A31E43F00A63CFC /* ContentView.swift in Sources */,
 				40586B9E2A321CC900A63CFC /* BackgroundThreadDemo.swift in Sources */,
+				40586BA02A331D1900A63CFC /* AppStorageDemo.swift in Sources */,
 				40586B902A31E43F00A63CFC /* SwiftSampleCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
