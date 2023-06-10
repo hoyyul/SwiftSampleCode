@@ -14,6 +14,8 @@
 		40586B9E2A321CC900A63CFC /* BackgroundThreadDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586B9D2A321CC900A63CFC /* BackgroundThreadDemo.swift */; };
 		40586BA02A331D1900A63CFC /* AppStorageDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586B9F2A331D1900A63CFC /* AppStorageDemo.swift */; };
 		40586BA22A3323CE00A63CFC /* WeakSelfDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BA12A3323CE00A63CFC /* WeakSelfDemo.swift */; };
+		40586BA42A34BC5800A63CFC /* Typealias.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BA32A34BC5800A63CFC /* Typealias.swift */; };
+		40586BA62A34BE9F00A63CFC /* EscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BA52A34BE9F00A63CFC /* EscapingDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		40586B9D2A321CC900A63CFC /* BackgroundThreadDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundThreadDemo.swift; sourceTree = "<group>"; };
 		40586B9F2A331D1900A63CFC /* AppStorageDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageDemo.swift; sourceTree = "<group>"; };
 		40586BA12A3323CE00A63CFC /* WeakSelfDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeakSelfDemo.swift; sourceTree = "<group>"; };
+		40586BA32A34BC5800A63CFC /* Typealias.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Typealias.swift; sourceTree = "<group>"; };
+		40586BA52A34BE9F00A63CFC /* EscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,10 +64,12 @@
 				40586B8F2A31E43F00A63CFC /* SwiftSampleCodeApp.swift */,
 				40586B912A31E43F00A63CFC /* ContentView.swift */,
 				40586B932A31E44100A63CFC /* Assets.xcassets */,
+				40586B952A31E44100A63CFC /* Preview Content */,
 				40586B9D2A321CC900A63CFC /* BackgroundThreadDemo.swift */,
 				40586B9F2A331D1900A63CFC /* AppStorageDemo.swift */,
-				40586B952A31E44100A63CFC /* Preview Content */,
 				40586BA12A3323CE00A63CFC /* WeakSelfDemo.swift */,
+				40586BA32A34BC5800A63CFC /* Typealias.swift */,
+				40586BA52A34BE9F00A63CFC /* EscapingDemo.swift */,
 			);
 			path = SwiftSampleCode;
 			sourceTree = "<group>";
@@ -147,9 +153,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				40586BA22A3323CE00A63CFC /* WeakSelfDemo.swift in Sources */,
+				40586BA62A34BE9F00A63CFC /* EscapingDemo.swift in Sources */,
 				40586B922A31E43F00A63CFC /* ContentView.swift in Sources */,
 				40586B9E2A321CC900A63CFC /* BackgroundThreadDemo.swift in Sources */,
 				40586BA02A331D1900A63CFC /* AppStorageDemo.swift in Sources */,
+				40586BA42A34BC5800A63CFC /* Typealias.swift in Sources */,
 				40586B902A31E43F00A63CFC /* SwiftSampleCodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
