@@ -18,7 +18,7 @@
 		40586BA62A34BE9F00A63CFC /* EscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BA52A34BE9F00A63CFC /* EscapingDemo.swift */; };
 		40586BA82A34CC0F00A63CFC /* CodableDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BA72A34CC0F00A63CFC /* CodableDemo.swift */; };
 		40586BAA2A360FD200A63CFC /* DownloadWithEscapingDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BA92A360FD200A63CFC /* DownloadWithEscapingDemo.swift */; };
-		40586BAC2A36238100A63CFC /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BAB2A36238100A63CFC /* DownloadWithCombine.swift */; };
+		40586BAC2A36238100A63CFC /* DownloadWithCombineDemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40586BAB2A36238100A63CFC /* DownloadWithCombineDemo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,7 +34,7 @@
 		40586BA52A34BE9F00A63CFC /* EscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingDemo.swift; sourceTree = "<group>"; };
 		40586BA72A34CC0F00A63CFC /* CodableDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableDemo.swift; sourceTree = "<group>"; };
 		40586BA92A360FD200A63CFC /* DownloadWithEscapingDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingDemo.swift; sourceTree = "<group>"; };
-		40586BAB2A36238100A63CFC /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
+		40586BAB2A36238100A63CFC /* DownloadWithCombineDemo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombineDemo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,7 +78,7 @@
 				40586BA52A34BE9F00A63CFC /* EscapingDemo.swift */,
 				40586BA72A34CC0F00A63CFC /* CodableDemo.swift */,
 				40586BA92A360FD200A63CFC /* DownloadWithEscapingDemo.swift */,
-				40586BAB2A36238100A63CFC /* DownloadWithCombine.swift */,
+				40586BAB2A36238100A63CFC /* DownloadWithCombineDemo.swift */,
 			);
 			path = SwiftSampleCode;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40586BA22A3323CE00A63CFC /* WeakSelfDemo.swift in Sources */,
-				40586BAC2A36238100A63CFC /* DownloadWithCombine.swift in Sources */,
+				40586BAC2A36238100A63CFC /* DownloadWithCombineDemo.swift in Sources */,
 				40586BA62A34BE9F00A63CFC /* EscapingDemo.swift in Sources */,
 				40586B922A31E43F00A63CFC /* ContentView.swift in Sources */,
 				40586BA82A34CC0F00A63CFC /* CodableDemo.swift in Sources */,
