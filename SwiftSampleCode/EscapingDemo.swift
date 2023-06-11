@@ -27,7 +27,7 @@ class EscapingViewModel: ObservableObject{
         return "New data!"
     }
     
-    func downloadData2(completionHandler: (_ data: String)->Void){// returnedData = Data = "New data";_ is a function name for external use
+    func downloadData2(completionHandler: (_ data: String)->Void){// returnedData = Data = "New data";_ is a function name for external use; completion called when function is done
         completionHandler("New data!")
     }
     
