@@ -26,7 +26,7 @@ class DownloadWithCombineViewModel: ObservableObject{
     }
     
     func getPosts(){
-        guard let url = URL(string: "https://jsonplaceholder.typicode.com/posts/1") else { return }
+        guard let url = URL(string: "https://jsonplaceholder.typicode.com/posts") else { return }
         
         //Combine discussion:
         /*
